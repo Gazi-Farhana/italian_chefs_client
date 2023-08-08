@@ -10,8 +10,8 @@ const Chef = () => {
     return (
         <div>
             <div className='py-10 px-4'>
-                <h2 className='text-center text-2xl font-semibold'>MEET OUR WORLD CLASS CHEFS</h2>
-                <p className='mb-4 px-6'>Our restaurant chefs are masters of their craft, using fresh, locally-sourced ingredients to create delectable dishes. Each dish is a masterpiece crafted with passion and precision, from savory steaks to succulent seafood. Join us for an unforgettable dining experience that celebrates the art of gastronomy.
+                <h2 className="text-3xl font-bold text-center">MEET OUR WORLD CLASS CHEFS</h2>
+                <p className='mb-4 px-6 text-xl'>Our restaurant chefs are masters of their craft, using fresh, locally-sourced ingredients to create delectable dishes. Each dish is a masterpiece crafted with passion and precision, from savory steaks to succulent seafood. Join us for an unforgettable dining experience that celebrates the art of gastronomy.
                 </p>
                 
                 <div className='lg:grid grid-cols-3 mx-4'>

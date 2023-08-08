@@ -13,6 +13,8 @@ const firebaseConfig = {
   appId: import.meta.env.VITE_appId
 };
 
+
+// firebase email: gazitasnuva.nsu@gmail.com
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 
