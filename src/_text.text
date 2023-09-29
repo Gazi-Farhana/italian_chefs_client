@@ -1,7 +1,0 @@
-q1. the differences between uncontrolled and controlled components
-ans: uncontrolled components cann manage their ouw state by their own internally. On the other hand, controlled components' state and behaviour are managed by the parent component and they rely on props that comes from parent component, thus update their state and behavior. Therefore, they are not able to control their iternal state.
-
-q2. How to validate React props using PropTypes
-ans: A parent component passes data with props to their child component because props are like HTML attributes but they can contain dynamic data. If we pass in prop values that don’t match the type specified, we get an error. Therefore, validating react props is necessary.
-They can be validated by setting the proptypes property of the Foocomponent to an object that has the names of the props  to validate as the keys. And the corresponding values are the data type of the props.
- q3.Tell us the difference between nodejs and express js.

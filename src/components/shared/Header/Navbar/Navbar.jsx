@@ -9,9 +9,9 @@ const Navbar = () => {
     return (
         <>
             <div className="navbar bg-stone-600">
-                <div className="navbar-start">
+                <div className="navbar-start ml-10">
                     <img className='w-20' src={'/assets/image/logo.jpg'}></img>
-                    <p className="ml-4 normal-case hidden lg:block lg:text-xl text-stone-400">Lé Lugano Cucine Italiana</p>
+                    <p className="ml-4 normal-case hidden lg:block lg:text-xl text-stone-400">Lé Lugano <br /> Cucine Italiana</p>
                 </div>
                 <div className="navbar-center lg:flex">
                     <ul className="menu menu-horizontal px-1 text-stone-400">

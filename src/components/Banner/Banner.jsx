@@ -10,7 +10,7 @@ const Banner = () => {
             backgroundAttachment: "fixed",
             backgroundSize: "cover",
           }}>
-            <div className='pt-52 bg-gradient-to-t from-black min-h-screen'>
+            <div className='pt-96 bg-gradient-to-t from-black min-h-screen'>
 
                 <h1 className='lg:text-6xl text-xl text-neutral-300 font-bold'>WELCOME TO OUR
                     <br />

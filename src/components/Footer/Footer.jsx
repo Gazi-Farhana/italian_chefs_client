@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <div>
             <footer className="footer p-10 bg-stone-600 text-stone-400">
-  <div>
+  <div className='ml-48'>
     <img className='w-20' src={'/assets/image/logo.jpg'}></img>
     <p>Lé Lugano Cucine Italiana
     <br />
